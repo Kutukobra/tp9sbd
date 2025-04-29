@@ -29,34 +29,9 @@ function CardGrid() {
             description: "Hanged or enlightened?"
         },
         {
-            name: "Kim Kitsuragi",
-            image: "https://i.imgur.com/6zSCXzQ.jpeg",
-            description: "Lt."
-        },
-        {
-            name: "The Hanged Man",
-            image: "https://i.imgur.com/0HXeBc5.jpeg",
-            description: "Hanged or enlightened?"
-        },
-        {
-            name: "Kim Kitsuragi",
-            image: "https://i.imgur.com/6zSCXzQ.jpeg",
-            description: "Lt."
-        },
-        {
-            name: "The Hanged Man",
-            image: "https://i.imgur.com/0HXeBc5.jpeg",
-            description: "Hanged or enlightened?"
-        },
-        {
-            name: "Kim Kitsuragi",
-            image: "https://i.imgur.com/6zSCXzQ.jpeg",
-            description: "Lt."
-        },
-        {
-            name: "The Hanged Man",
-            image: "https://i.imgur.com/0HXeBc5.jpeg",
-            description: "Hanged or enlightened?"
+            name: "...",
+            image: "https://i.imgur.com/cJbjoCE.jpeg",
+            description: "..."
         },
     ]
 
