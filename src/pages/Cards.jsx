@@ -110,7 +110,7 @@ function Card({name, image, description}) {
     return (
         <div className="
                 rounded-xl
-                bg-amber-950/20
+                bg-gray-950/20
                 shadow-2xl
             ">
             <h2 className="
