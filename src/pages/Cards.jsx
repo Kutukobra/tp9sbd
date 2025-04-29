@@ -33,6 +33,26 @@ function CardGrid() {
             image: "https://i.imgur.com/cJbjoCE.jpeg",
             description: "..."
         },
+        {
+            name: "...",
+            image: "https://i.imgur.com/wq548pV.jpeg",
+            description: "..."
+        },
+        {
+            name: "...",
+            image: "https://i.imgur.com/EaKmpu1.jpeg",
+            description: "..."
+        },
+        {
+            name: "...",
+            image: "https://i.imgur.com/IsLjWWI.jpeg",
+            description: "..."
+        },
+        {
+            name: "...",
+            image: "https://i.imgur.com/dJNDrxx.jpeg",
+            description: "..."
+        },
     ]
 
     const [vantaEffect, setVantaEffect] = useState(null);
@@ -110,7 +130,7 @@ function Card({name, image, description}) {
     return (
         <div className="
                 rounded-xl
-                bg-gray-950/20
+                bg-gray-950/50
                 shadow-2xl
             ">
             <h2 className="
